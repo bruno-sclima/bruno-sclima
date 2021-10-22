@@ -1,4 +1,4 @@
-# Olá a todos! Este é o resumo do meu perfil aqui no Github!😉
+# Hello There! This is the abstract of my profile on Github!😉
  <div>
   <a href="https://github.com/bruno-sclima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-sclima&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
